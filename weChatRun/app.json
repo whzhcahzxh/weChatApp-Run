@@ -1,14 +1,15 @@
 {
-  "pages":[
-     "pages/index",
-     "pages/logs/logs",
-     "pages/run/run",
-     "pages/animation/animation"
+  "pages": [
+    "pages/index",
+    "pages/logs/logs",
+    "pages/run/run",
+    "pages/animation/animation",
+    "pages/test/test"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "悦跑圈",
-    "navigationBarTextStyle":"black"
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#777",
+    "navigationBarTitleText": "测试奔跑",
+    "navigationBarTextStyle": "white"
   }
 }
