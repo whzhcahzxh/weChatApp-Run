@@ -1,19 +1,18 @@
 
 
-
-<view clas="mainView">
+<view class="mainView">
     <!--标题-->
 
     <view class="header">
-        <button bindtap="tryclick" wx:if="{{1}}">获取数据</button>
-        <!-- <map longitude="广州经度" latitude="广州纬度"></map> -->
+        <view id="topname">{{ message }}</view>
+        <button bindtap="tryclick">获取数据</button>
+                
         <image class="icon" src="/resources/joyrun.png" mode="aspectFill"/>
         
         <view class="bigTitle">悦跑圈</view>
         <view class="desc">Let us run - Alan Wang</view>
     </view>
 
-    
     
     
     <view class="body">

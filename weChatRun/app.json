@@ -4,11 +4,11 @@
     "pages/logs/logs",
     "pages/run/run",
     "pages/animation/animation",
-    "pages/test/test"
+    "pages/QA/QA"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#777",
+    "navigationBarBackgroundColor": "#AAA",
     "navigationBarTitleText": "测试奔跑",
     "navigationBarTextStyle": "white"
   }

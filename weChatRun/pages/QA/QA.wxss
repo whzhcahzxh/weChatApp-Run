@@ -1,0 +1,20 @@
+/* pages/QA/QA.wxss */
+.quesion_section {
+  margin: 50rpx auto;
+}
+
+.choices_sections {
+  padding: 50rpx 50rpx 10rpx 50rpx;
+  /* border-top: 1px solid #ccc; */
+  /* display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-grow: 1; */
+  overflow-y: scroll;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.choices_section {
+  margin: 20rpx auto; 
+}

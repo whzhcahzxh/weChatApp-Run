@@ -1,0 +1,12 @@
+<!--pages/QA/QA.wxml-->
+<view class="mainView">
+  <view clas="quesion_section">{{question}}</view>
+
+  <view class="choices_sections">
+    <block wx:for="{{choices}}">
+      <button class='choices_section' bindtap='pickOne'>
+        {{item.text}};
+      </button>
+    </block>
+  </view>
+</view>

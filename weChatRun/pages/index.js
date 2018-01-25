@@ -8,8 +8,8 @@ Page({
         id: 'run',
         name: '跑步',
       },{
-        id:'test',
-        name:"定位服务"
+        id:'QA',
+        name:"问答",
       }
     ]
   },
